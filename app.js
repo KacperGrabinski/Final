@@ -174,13 +174,9 @@ function uploadToList() {
 
   videosList.push({
     title: titleResult,
-    author: ,
     description: descResult,
-    views: ,
     date_posted: yearResult,
-    profile_photo: ,
-    video_thumbnail: thumbnailResult,
-    link: 
+    video_thumbnail: thumbnailResult
   })
 
   
